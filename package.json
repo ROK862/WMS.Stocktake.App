@@ -1,0 +1,24 @@
+{
+  "name": "wms.stocktake.mobile",
+  "version": "1.0.0",
+  "description": "HAHAHA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROK862/WMS.Stocktake.App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROK862/WMS.Stocktake.App/issues"
+  },
+  "homepage": "https://github.com/ROK862/WMS.Stocktake.App#readme",
+  "dependencies": {
+    "create-react-native-app": "^3.6.0",
+    "expo": "^43.0.3",
+    "yarn": "^1.22.17"
+  }
+}
